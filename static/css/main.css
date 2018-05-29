@@ -129,7 +129,7 @@ a, a:visited, a:link {
 }
 
 .bgStatus .currentBG {
-  font-size: 120px;
+  font-size: 240px;
   line-height: 100px;
   text-decoration: line-through;
   vertical-align: middle;
