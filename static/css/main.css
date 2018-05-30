@@ -113,7 +113,7 @@ a, a:visited, a:link {
   float: right;
   text-align: center;
   white-space: nowrap;
-  padding-right: 20px;
+  padding-right: 400px;
 }
 
 .urgent .bgButton {
@@ -129,8 +129,8 @@ a, a:visited, a:link {
 }
 
 .bgStatus .currentBG {
-  font-size: 120px;
-  line-height: 100px;
+  font-size: 300px;
+  line-height: 240px;
   text-decoration: line-through;
   vertical-align: middle;
 }
@@ -142,8 +142,8 @@ a, a:visited, a:link {
 .bgStatus .pill.direction {
   font-weight: normal;
   text-decoration: none;
-  font-size: 90px;
-  line-height: 90px;
+  font-size: 200px;
+  line-height: 240px;
   vertical-align: middle;
   border: none;
   background: none;
@@ -227,7 +227,7 @@ a, a:visited, a:link {
 
 .status {
   color: #808080;
-  font-size: 100px;
+  font-size: 200px;
 }
 .statusBox {
   text-align: center;
