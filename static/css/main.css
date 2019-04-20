@@ -154,8 +154,8 @@ a, a:visited, a:link {
 .bgStatus .pill.direction {
   font-weight: normal;
   text-decoration: none;
-  font-size: 200px;  //JR was 90px
-  line-height: 90px;  //JR was 90px
+  font-size: 150px;  //JR was 90px
+  line-height: 240px;  //JR was 90px
   vertical-align: middle;
   border: none;
   background: none;
