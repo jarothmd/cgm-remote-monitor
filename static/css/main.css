@@ -145,6 +145,7 @@ a, a:visited, a:link {
   line-height: 240px;  //JR was 100px
   text-decoration: line-through;
   vertical-align: middle;
+  border: none;
 }
 
 .bgStatus .currentBG.bg-limit, .bgStatus .currentBG.icon-hourglass {
