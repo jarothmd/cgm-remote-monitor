@@ -125,7 +125,7 @@ a, a:visited, a:link {
   float: right;
   text-align: center;
   white-space: nowrap;
-  padding-right: 20px; //JR was 20px
+  padding-right: 200px; //JR was 20px
 }
 
 .urgent .bgButton {
